@@ -1,6 +1,10 @@
-## Hey 👋, I'm Minhyun Cho👀  
+
+
+###       
+## <div align="center">Hey 👋, I'm Minhyun Cho👀</div>  
   
 
+<div align="center">
 <a href="https://github.com/Jayfunf" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -10,30 +14,29 @@
 <a href="https://instagram.com/jay_funf__5" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+</div>  
   
 
-
-
-### About me?  
-Hi there!  
+### <div align="center">edit</div>  
   
 
 <br/>  
 
+# <div align="center">Leanguages</div>  
+  
 
-## Languages and Tools  
+**<div align="center">Ican</div>**  
+  
 
-
-### Learning  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />  
 </div>  
 
+**<div align="center">Learning</div>**  
+  
 
-
-### I can  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" />  
@@ -43,17 +46,12 @@ Hi there!
 
 <br/>  
 
+# <div align="center">Github Stats</div>  
+  
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=jayfunf&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jayfunf&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayfunf&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayfunf&hide_border=true&layout=compact" align="center" /></div>
 <br />
 
 ----
