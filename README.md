@@ -22,7 +22,7 @@ Hi there!
 
 
 ## Languages and Tools  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="33%">
 
 
 
@@ -43,7 +43,11 @@ Hi there!
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="75" />  
 </div>
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="33%">
+
+
+
+</td><td valign="top" width="33%">
 
 
 
