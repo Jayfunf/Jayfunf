@@ -25,7 +25,7 @@
 # <div align="center">Leanguages</div>  
   
 
-**<div align="center">Ican</div>**  
+**<div align="center">I can</div>**  
   
 
 <div align="center">  
