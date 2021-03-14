@@ -29,7 +29,7 @@
   
 
 <div align="center">  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" />
+<img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" />
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="25" />
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" />
