@@ -22,7 +22,7 @@
 
 <br/>  
 
-# <div align="center">Leanguages</div>    
+# <div align="center">Work with</div>    
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
