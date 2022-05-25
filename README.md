@@ -1,43 +1,29 @@
+<h1 align="center">Hi 👋, I'm Minhyun Cho</h1>
+<h3 align="center">iOS Dev Junior from Korea</h3>
 
+- 🏫 My major is software and I'm currently studying at Ajou University.
 
-###       
-## <div align="center">Hey 👋, I'm Minhyun Cho👀</div>  
-  
+- 🌱 I’m currently learning **Swift, SwiftUI, Alamofire**
 
-<div align="center">
-<a href="https://jayfunf.github.io/" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/minhyuncho7925" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/jay_funf__5" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+- 📫 How to reach me **simh3077@gmail.com**
 
-### <div align="center">Luv ya!</div>  
-  
+- ⚡ Fun fact **I have two cats 🐈(가루) 🐈‍⬛\(콩)**
 
-<br/>  
+- 🅱️ My Velog https://velog.io/@simh3077
 
-# <div align="center">Work with</div>    
+- 🅱️ My github.io https://jayfunf.github.io/
 
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> 
-</div>    
+- 👨‍💻 My newest project https://github.com/AjouSelves/AjouSelves_iOS_App
 
-<br/>  
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://fb.com/minhyuncho7925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="minhyuncho7925" height="30" width="40" /></a>
+<a href="https://instagram.com/jay_funf__5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jay_funf__5" height="30" width="40" /></a>
+</p>
 
-# <div align="center">Github Stats</div>  
-  
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayfunf&hide_border=true&layout=compact" align="center" /></div>
-<br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayfunf&show_icons=true&locale=en&layout=compact" alt="jayfunf" /></p>
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayfunf&show_icons=true&locale=en" alt="jayfunf" /></p>
