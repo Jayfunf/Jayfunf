@@ -1,22 +1,14 @@
 <div align="center">
-<h1 align="center">Hi 👋, I'm Minhyun Cho</h1>
-<h3 align="center">iOS Dev Junior from Korea</h3>
+<h1 align="center">안녕하세요. 조민현입니다.</h1>
+<h3 align="center">병역특례 iOS개발자로 복무 중에 있습니다.</h3>
 
-🏫 My major is software and I'm currently studying at Ajou University.
+🏫 아주대학교에서 소프트웨어를 전공하고 있습니다.
 
-🌱 I’m currently learning **Swift, SwiftUI, Alamofire**
-
-📫 How to reach me **simh3077@gmail.com**
-
-⚡ Fun fact **I have two cats 🐈(가루) 🐈‍⬛\(콩)**
+🌱 광고 SDK를 담당하여 개발하고 있습니다.
 
 🅱️ My Velog https://velog.io/@simh3077
 
-🅱️ My github.io https://jayfunf.github.io/
-
-👨‍💻 My newest project https://github.com/AjouSelves/AjouSelves_iOS_App
-
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">SNS:</h3>
 <p align="center">
 <a href="https://fb.com/minhyuncho7925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="minhyuncho7925" height="30" width="40" /></a>
 <a href="https://instagram.com/jay_funf__5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jay_funf__5" height="30" width="40" /></a>
