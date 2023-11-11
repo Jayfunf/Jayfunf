@@ -11,7 +11,7 @@
   
   🌱 SSP iOS SDK를 담당하여 개발하고 있습니다.
   
-  🧐 요즘은 Front-end를 공부하고 있습니다.
+  💡 창업에 관심이 많습니다.
 
   🅱️ My Velog https://velog.io/@simh3077
     <h3 align="center">SNS:</h3>
