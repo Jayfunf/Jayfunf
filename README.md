@@ -13,7 +13,7 @@
 
   ☕️ [24~] BE 개발자로 활동 중입니다.
 
-  🏎️ Forza Ferrari🏁
+  🏎️ Forza Ferrari 🏁
 
   🅱️ [DevLog](https://velog.io/@simh3077)
 
