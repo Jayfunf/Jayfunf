@@ -13,6 +13,8 @@
 
   ☕️ [24~] BE 개발자로 활동 중입니다.
 
+  🏎️ Forza Ferrari🏁
+
   🅱️ [DevLog](https://velog.io/@simh3077)
 
   👤 [Instagram](https://www.instagram.com/_jayfxnf)
