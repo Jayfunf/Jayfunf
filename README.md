@@ -29,6 +29,5 @@
     <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="50" height="50"/> </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayfunf&show_icons=true&locale=en&layout=compact" alt="jayfunf" /></p>
+alt="jayfunf" /></p>
 </div>
