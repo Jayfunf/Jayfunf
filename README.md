@@ -17,7 +17,8 @@
 
   🅱️ [DevLog](https://velog.io/@simh3077)
 
-  👤 [Instagram](https://www.instagram.com/_jxyfxnf)
+  👤 [Instagram](https://www.instagram.com/_jxyfxnf/)
+  
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
